@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umar Qazi</h1>
-<h3 align="center">Full Stack Seveloper</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 
 - 👨‍💻 All of my public projects are available in [Repositories](https://github.com/umarqazi-veroke?tab=repositories)
